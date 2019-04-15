@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "4d1673ed-39f4-4558-979f-6ee54a8476c3",
+            "Value": {
+                "id": "488c6010-eaa2-4abf-8d9f-29942fba7018",
+                "resourcePath": "sprites\\sprite_climb\\sprite_climb.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "55ee9988-2c47-4aa4-9b8c-f21e19c9c0e6",
             "Value": {
                 "id": "aed74efb-eaa4-4061-91fb-1f12da494a7c",
