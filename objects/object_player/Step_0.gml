@@ -39,14 +39,4 @@ if ((l75E200C2_0 > 0))
 	/// @DnDParent : 75E200C2
 	/// @DnDArgument : "force" "0"
 	gravity = 0;
-
-	/// @DnDAction : YoYo Games.Instances.Set_Sprite
-	/// @DnDVersion : 1
-	/// @DnDHash : 556F78E4
-	/// @DnDParent : 75E200C2
-	/// @DnDArgument : "imageind" "1"
-	/// @DnDArgument : "spriteind" "sprite_climb"
-	/// @DnDSaveInfo : "spriteind" "4d1673ed-39f4-4558-979f-6ee54a8476c3"
-	sprite_index = sprite_climb;
-	image_index = 1;
 }

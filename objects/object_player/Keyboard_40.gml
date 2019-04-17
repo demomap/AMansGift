@@ -35,5 +35,6 @@ if (!(l13D35B54_0 > 0))
 	/// @DnDVersion : 1
 	/// @DnDHash : 0094C530
 	/// @DnDParent : 13D35B54
-	image_speed = 1;
+	/// @DnDArgument : "speed" "2"
+	image_speed = 2;
 }
