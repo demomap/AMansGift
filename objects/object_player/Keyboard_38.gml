@@ -2,12 +2,12 @@
 /// @DnDVersion : 1.1
 /// @DnDHash : 397AE3EF
 /// @DnDArgument : "x_relative" "1"
-/// @DnDArgument : "y" "-climb_speed"
+/// @DnDArgument : "y" "climb_speed"
 /// @DnDArgument : "y_relative" "1"
 /// @DnDArgument : "object" "object_block"
 /// @DnDArgument : "not" "1"
 /// @DnDSaveInfo : "object" "13503e9a-962d-44a0-b2cb-f3f74cbbfd31"
-var l397AE3EF_0 = instance_place(x + 0, y + -climb_speed, object_block);
+var l397AE3EF_0 = instance_place(x + 0, y + climb_speed, object_block);
 if (!(l397AE3EF_0 > 0))
 {
 	/// @DnDAction : YoYo Games.Movement.Jump_To_Point
