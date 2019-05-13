@@ -1,4 +1,4 @@
-var l5A591151_0 = instance_place(x + 0, y + 2, object_block);
+var l5A591151_0 = instance_place(x + 0, y + 6, object_block);
 if ((l5A591151_0 > 0))
 {
 	vspeed = jump_speed;

@@ -1,6 +1,6 @@
 gravity = Gravity_amount ;
 
-var l037AEFFA_0 = instance_place(x + 0, y + 2, object_block);
+var l037AEFFA_0 = instance_place(x + 0, y + 4, object_block);
 if ((l037AEFFA_0 > 0))
 {
 	gravity = 0;
